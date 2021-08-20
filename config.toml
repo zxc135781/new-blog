@@ -1,4 +1,4 @@
-baseURL = 'http://test.ihux.cn/'
+baseURL = 'https://test.ihux.cn'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "paper"
